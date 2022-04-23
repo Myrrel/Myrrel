@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Martín Urciuoli desde Argentina</h1>
-<h3 align="center">Desarrollador de software web, mobile y desktop, con más de 5 años de experiencia en la industria IT. Apasionado de la tecnología, académico, y por siempre auto</h3>
+<h3 align="center">Desarrollador de software web, mobile y desktop, con más de 5 años de experiencia en la industria IT. Apasionado de la tecnología, académico, y por siempre autodidacta</h3>
 
 - Ahora estoy aprendiendo **Java**
 
